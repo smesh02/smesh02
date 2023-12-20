@@ -17,22 +17,22 @@
 python
 import random
 
-# Угадай число
+Угадай число
 def guess_the_number():
     # ... (код функции guess_the_number)
 
-# Камень, ножницы, бумага
+Камень, ножницы, бумага
 def rock_paper_scissors():
     # ... (код функции rock_paper_scissors)
 
-# Викторина
+Викторина
 def quiz_game():
     # ... (код функции quiz_game)
 
-# Функция main
+Функция main
 def main():
     # ... (код функции main)
 
-# Вызов функции main для запуска программы
+Вызов функции main для запуска программы
 if name == "main":
     main()
