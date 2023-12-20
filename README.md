@@ -9,7 +9,7 @@
 
 ## Ссылки
 
-- [Ссылка на блокнот Google Colab](ссылка) (доступен для чтения)
+- [Ссылка на блокнот Google Colab](https://colab.research.google.com/drive/13rYW-e19WPAVDrfsq8yqzqtii2nyUkEt?usp=sharing)
 - [URL видео презентации проекта](ссылка) (доступно для просмотра)
 
 ## Примеры кода
